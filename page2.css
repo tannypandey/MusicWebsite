@@ -1,0 +1,96 @@
+h1{
+    font-family:"Sofia";
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    background-color: black;
+}
+
+body{
+    background-image: url(background1.png) ;
+    color: white;
+}
+
+div.firstimg{
+background-color: lightgreen;
+color: black;
+font-size: 25px;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+margin: 30px;
+height: 200px;
+width: 1000px;
+}
+
+div.firstimg img{
+    float: left;
+    padding-left: 45px;
+    margin-right: 20px;
+}
+
+div.secondimg{
+background-color: lightskyblue;
+color: black;
+font-size: 25px;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+margin: 30px;
+height: 200px;
+width: 1000px;
+}
+
+div.secondimg img{
+    float: right;
+    padding-right: 45px;
+    margin-left: 20px;
+}
+
+div.thirdimg{
+    background-color: palevioletred;
+    color: black;
+    font-size: 25px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 30px;
+    height: 200px;
+    width: 1000px;
+}
+
+div.thirdimg img{
+    float: left;
+    padding-left: 45px;
+    margin-right: 20px;
+}
+
+div.fourthimg{
+    background-color: rgb(238, 228, 117);
+    color: black;
+    font-size: 25px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 30px;
+    height: 200px;
+    width: 1000px;
+}
+
+div.fourthimg img{
+    float: right;
+    padding-right: 45px;
+    margin-left: 20px;
+}
+
+div.fifthimg{
+background-color: lightsalmon;
+color: black;
+font-size: 25px;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+margin: 30px;
+height: 200px;
+width: 1000px;
+}
+
+div.fifthimg img{
+    float: left;
+    padding-left: 45px;
+    margin-right: 20px;
+}
+
+img:hover{
+    opacity: 0.8;
+}
