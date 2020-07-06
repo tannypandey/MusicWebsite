@@ -3,5 +3,5 @@ if (answer.toLowerCase() === 'yes'){
     alert("Great! We have your country here");
 }
 else{
-    alert("It's okay you can discover new music here");
+    alert("It's okay you can still discover new music here");
 }
